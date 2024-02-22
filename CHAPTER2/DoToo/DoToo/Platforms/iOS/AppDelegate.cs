@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Chapter2
+namespace DoToo
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

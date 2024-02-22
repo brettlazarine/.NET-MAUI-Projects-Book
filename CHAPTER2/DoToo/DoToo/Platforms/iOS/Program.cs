@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Chapter2
+namespace DoToo
 {
     public class Program
     {

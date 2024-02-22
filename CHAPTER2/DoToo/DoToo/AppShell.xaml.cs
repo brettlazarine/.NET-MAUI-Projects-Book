@@ -1,4 +1,4 @@
-﻿namespace Chapter2
+﻿namespace DoToo
 {
     public partial class AppShell : Shell
     {

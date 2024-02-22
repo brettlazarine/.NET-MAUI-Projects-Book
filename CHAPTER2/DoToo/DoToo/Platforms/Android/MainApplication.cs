@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Chapter2
+namespace DoToo
 {
     [Application]
     public class MainApplication : MauiApplication

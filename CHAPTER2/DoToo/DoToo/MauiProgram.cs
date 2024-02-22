@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace Chapter2
+namespace DoToo
 {
     public static class MauiProgram
     {
