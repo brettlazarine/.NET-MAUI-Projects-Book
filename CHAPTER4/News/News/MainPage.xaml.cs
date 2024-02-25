@@ -1,4 +1,6 @@
-﻿namespace News
+﻿using System.Diagnostics;
+
+namespace News
 {
     public partial class MainPage : ContentPage
     {
@@ -7,6 +9,8 @@
         public MainPage()
         {
             InitializeComponent();
+
+            
         }
 
         private void OnCounterClicked(object sender, EventArgs e)
